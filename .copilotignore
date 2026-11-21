@@ -1,0 +1,7 @@
+# .copilotignore
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
